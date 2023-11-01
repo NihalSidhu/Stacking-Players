@@ -22,7 +22,6 @@ Here we look into the relationships between fantasy football outputs across diff
 - Data processing
 - Model deployment and analysis
 - Correlation Matrix
-- 
 
 ## The Project
 The project and the process of finding which players to stack can be found here: [The Project](https://github.com/NihalSidhu/Stacking-Players/blob/main/StackingPlayersStrategy.ipynb).
