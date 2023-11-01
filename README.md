@@ -14,7 +14,7 @@ Here we look into the relationships between fantasy football outputs across diff
 
 ## Skills & Tools
 - Python
-    - Libraries: Pandas, Seaborn, Matplotlib
+    - Libraries: Pandas, Seaborn & Matplotlib
 - Data processing
 - Model deployment and analysis
 - Correlation Matrix
