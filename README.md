@@ -10,7 +10,7 @@
 ## Overview
 In fantasy football, an owner can start two players from the same NFL team. This is considered "stacking" players together and it would lead their fantasy output to be closely tied with the NFL team's performance. We end up hoping that one player's great performance would lead to his teammate to have a strong performance as well, which would ultimately lead to a higher score that week. However, we don't entirely know what positions make the most sense to stack with one another. Luckily, that's what this project focuses on. 
 
-Here we look into the relationships between fantasy football outputs across different positions and see which positions are the most closely related in terms of points scored. This will help us understand which positions are worth stacking with one another. In this project, I will leverage 2022 fantasy football scores and map them across various fantasy football relevant positions. With this, I will find correlations across positions to help understand the correlations across different positions to ultimately showcase which positions should be stacked with one another and which positions should not.
+Here we look into the fantasy football outputs across different positions and see which two positions are the most closely related to each other, in terms of maximizing the points scored. This will help us understand which positions are worth stacking with one another. While implementing this, I used 2022 fantasy football scores data and mapped them across various fantasy football relevant positions. I then developed correlations between all of the positions in order to come up with recommendations as to which positions to consider stacking with one another.
 
 ## Skills & Tools
 - Python
