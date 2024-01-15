@@ -19,6 +19,12 @@ Here we look into the fantasy football outputs across different positions and se
 - Model deployment and analysis
 - Correlation Matrix
 
+## Sneak Peak
+
+![image](https://github.com/NihalSidhu/Stacking-Players/assets/111151666/cad58b7e-2129-48b4-8466-d70e0a7da5ab)
+
+Correlation Matrix of different positions in fantasy football.
+
 ## The Project
 The project and the process of finding which players to stack can be found here: [The Project](https://github.com/NihalSidhu/Stacking-Players/blob/main/StackingPlayersStrategy.ipynb).
 
